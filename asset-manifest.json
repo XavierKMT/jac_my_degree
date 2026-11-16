@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/jac_my_degree/static/css/main.9e39c91a.css",
+    "main.js": "/jac_my_degree/static/js/main.a99a130e.js",
+    "index.html": "/jac_my_degree/index.html",
+    "main.9e39c91a.css.map": "/jac_my_degree/static/css/main.9e39c91a.css.map",
+    "main.a99a130e.js.map": "/jac_my_degree/static/js/main.a99a130e.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.9e39c91a.css",
+    "static/js/main.a99a130e.js"
+  ]
+}
