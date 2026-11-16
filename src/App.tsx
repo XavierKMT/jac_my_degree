@@ -492,7 +492,7 @@ export default function App() {
                 className="close-modal"
                 onClick={() => setSelectedCourseId(null)}
               >
-                âœ•
+                x
               </button>
             </div>
 
@@ -520,7 +520,7 @@ export default function App() {
                     }))
                   }
                 >
-                  FranÃ§ais
+                  Français
                 </button>
               </div>
             )}
@@ -748,15 +748,3 @@ function CourseTile({
     </button>
   );
 }
-
-
-
-
-
-
-
-
-
-
-
-
